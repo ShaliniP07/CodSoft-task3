@@ -2,8 +2,10 @@
 ## Password generator in Python programming Language
 ## Author: Shalini P
 ## Batch: (1 November- 30 November,2023)
-## Domain: Python Programming
-## Aim: To build a password generator
+## Domain: 
+Python Programming
+## Aim: 
+To build a password generator
 ## Description/Working of code:
 1. The password_generation function takes a number as input, which represents the desired length of the randomly generated password.
 
